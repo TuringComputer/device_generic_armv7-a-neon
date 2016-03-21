@@ -1,1 +1,0 @@
-# device_generic_armv7-a-neon
